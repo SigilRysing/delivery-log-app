@@ -2,7 +2,7 @@ import React from 'react'
 
 const Profile = () => {
     return (
-        <div className='profile page'>Here is the profile page</div>
+        <div className='page flex-col-flx-strt-cntr'>Here is the profile page</div>
     )
 }
 

@@ -9,6 +9,7 @@ import Profile from '../pages/Profile'
 
 // styling => idea is 2 import once 4 all & fuggitaboutit
 import '../css/App.css' // styling null 4 now -> mebbe useful later
+import '../css/component.css'
 import '../css/page.css' // base style for all pages -> less is more
 import '../css/flexbox.css' // less spaghetti in me code
 

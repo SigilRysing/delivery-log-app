@@ -1,0 +1,38 @@
+/* LOG PAGE COMPONENTS */
+
+.log-header {
+    width: 625px;
+    height: 125px;
+    border: 1px solid red;
+}
+
+.log-header-section {
+    width: 600px;
+    height: 58.5px;
+    background-color: silver;
+}
+
+.log-header-bttn {
+    width: 150px;
+    height: 58px;
+    background-color: darkgoldenrod;
+}
+
+.log-entries {
+    width: 625px;
+    height: 475px;
+    border: 1px solid purple;
+}
+
+.log-entry {
+    width: 600px;
+    height: 45px;
+    background-color: magenta;
+}
+
+.log-entry-field {
+    height: 42px;
+    width: 42px;
+    border: 1px solid turquoise;
+    font-size: 11px;
+}

@@ -1,4 +1,5 @@
 .page {
     width: 750px;
     height: 625px;
+    border: 1px solid yellow;
 }

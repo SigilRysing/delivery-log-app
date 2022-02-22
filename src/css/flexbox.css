@@ -27,6 +27,13 @@
   align-items: center;
 }
 
+.flex-col-spc-arnd-cntr {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .flex-row-cntr-cntr {
   display: flex;
   justify-content: center;
