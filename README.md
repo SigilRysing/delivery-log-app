@@ -1,4 +1,4 @@
-# Front End for Delivery Log App
+# anc-front-end-gui
 
 ## Front End For ANC Helper App
  - build it here 1st, then use server 2 Atlas API code
@@ -15,6 +15,7 @@
     * Splash -> Synthesize welcome/about/purpose/login
     * Profile -> name, unit number, start log (if 1 not started already)
     * Log -> log-sheet => log-row => log=element
+    * end shift tOtAL # OF STOPs field now part of MVP
 
   - Color theme -> black, yellow, grey, greyscale
    * Black background
@@ -49,3 +50,8 @@
       6. success
       7. pickupDeliver
       8. notes
+
+
+### IMPORTANT 
+- c thru old code & find where u made box scrolly dolly yo
+- perhaps think of refactoring four sep LogHeader components 1nce & 4 all, eh?

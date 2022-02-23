@@ -5,13 +5,11 @@ import React from 'react'
 // R&D yo. Get 2 Duck Duck goin!
 const LogEntryField = (props) => {
   return (
-    <div className='log-entry-field'>
-      <div className='field entry-name'>{props.fieldName}</div>
-      <div className='field entry-val'>{props.fieldVal}</div>
+    <div className='log-entry-field flex-col-spc-evn-cntr'>
+      <div className='field entry-name flex-col-cntr-cntr'>{props.fieldName}</div>
+      <div className='field entry-val flex-col-cntr-cntr'>{props.fieldVal}</div>
     </div>
   )
 }
 
 export default LogEntryField
-// if rendering multiple of same element then do so programmaticaly doof dar dar
-// Log > LogEntries > LogEntry > LogEntryField

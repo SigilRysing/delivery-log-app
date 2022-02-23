@@ -1,4 +1,6 @@
 import React from 'react'
+// component heirarchy:
+// Log > LogEntries > LogEntry > LogEntryField
 
 // components 
 import LogEntries from '../components/LogEntries'
@@ -14,3 +16,5 @@ const Log = () => {
 }
 
 export default Log
+// IMPORTANT NOTE:
+// Add 2 MVP: Make total # of stops field for log entry page

@@ -9,30 +9,37 @@
 .log-header-section {
     width: 600px;
     height: 58.5px;
-    background-color: silver;
+    /* background-color: silver; */
 }
 
 .log-header-bttn {
     width: 150px;
     height: 58px;
-    background-color: darkgoldenrod;
+    background-color: yellow;
 }
 
 .log-entries {
     width: 625px;
     height: 475px;
-    border: 1px solid purple;
+    border: 1px solid red;
 }
 
 .log-entry {
-    width: 600px;
-    height: 45px;
-    background-color: magenta;
+    width: 620px;
+    height: 85px;
+    /* background-color: magenta; */
+    border: 1px solid yellow;
 }
 
 .log-entry-field {
-    height: 42px;
-    width: 42px;
-    border: 1px solid turquoise;
-    font-size: 11px;
+    height: 75px;
+    width: 75px;
+    font-size: 9px;
+    border: .5px solid red;
+}
+
+.field {
+    width: 60px;
+    height: 30px;
+    background-color: yellow;
 }

@@ -5,7 +5,7 @@ import '../css/component.css'
 
 const CourierID = () => {
     return (
-        <div className='courier-id log-header-bttn'>{`Name & Unit #`}</div>
+        <div className='courier-id log-header-bttn flex-col-cntr-cntr'>{`Name & Unit #`}</div>
     )
 }
 

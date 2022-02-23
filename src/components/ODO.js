@@ -2,7 +2,7 @@ import React from 'react'
 
 const ODO = () => {
     return (
-        <div className='odo log-header-bttn'>ODO</div>
+        <div className='odo log-header-bttn flex-col-cntr-cntr'>ODO</div>
     )
 }
 
