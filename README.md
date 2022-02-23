@@ -1,6 +1,6 @@
-# anc-front-end-gui
+# Front End for Delivery Log App
 
-## Front End For ANC Helper App
+## # Front End for Delivery Log App
  - build it here 1st, then use server 2 Atlas API code
  - MVP, described in detail below, will b simple logger app
  - can b dummy courier/dispatch accounts or not
