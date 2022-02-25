@@ -1,12 +1,10 @@
-# Front End for Delivery Log App
+# Delivery PU/DEL Logger App
 
-## # Front End for Delivery Log App
+## Front End For Deliver Logger App
  - build it here 1st, then use server 2 Atlas API code
  - MVP, described in detail below, will b simple logger app
  - can b dummy courier/dispatch accounts or not
  - presentation most important
-
- ## ANC Helper APP
 
   ### MVP
   - Simple courier logger app
@@ -55,3 +53,4 @@
 ### IMPORTANT 
 - c thru old code & find where u made box scrolly dolly yo
 - perhaps think of refactoring four sep LogHeader components 1nce & 4 all, eh?
+- do not overthink db => try 2 model db as well as possible, but move FOWARD!
