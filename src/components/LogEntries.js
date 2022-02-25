@@ -11,6 +11,11 @@ const LogEntries = (props) => {
             <LogEntry />
             <LogEntry />
             <LogEntry />
+            <LogEntry />
+            <LogEntry />
+            <LogEntry />
+            <LogEntry />
+            <LogEntry />
         </div>
     )
 }

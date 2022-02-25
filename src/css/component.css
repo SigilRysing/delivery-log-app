@@ -1,7 +1,7 @@
 /* LOG PAGE COMPONENTS */
 
 .log-header {
-    width: 625px;
+    width: 650px;
     height: 125px;
     border: 1px solid red;
 }
@@ -19,13 +19,15 @@
 }
 
 .log-entries {
-    width: 625px;
+    width: 650px;
     height: 475px;
+    overflow-x: auto;
+    overflow-y: auto;
     border: 1px solid red;
 }
 
 .log-entry {
-    width: 620px;
+    width: 625px;
     height: 85px;
     /* background-color: magenta; */
     border: 1px solid yellow;
